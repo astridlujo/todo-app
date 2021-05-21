@@ -13,4 +13,6 @@ For this project I used:
 - Expo CLI, to run the application
 - CSS, for styling
 
+# See the App
+
 You can see how to the project works with a video by following this link: https://drive.google.com/file/d/1u_WYXBTMyhalwuyk5GD0cWe6C87bbO6S/view?usp=sharing
