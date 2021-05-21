@@ -11,7 +11,6 @@ For this project I used:
 
 - React Native, as the main framework.
 - Expo CLI, to run the application
-
-You can see how the app works by refereing to to-do.png images
+- CSS, for styling
 
 You can see how to the project works with a video by following this link: https://drive.google.com/file/d/1u_WYXBTMyhalwuyk5GD0cWe6C87bbO6S/view?usp=sharing
